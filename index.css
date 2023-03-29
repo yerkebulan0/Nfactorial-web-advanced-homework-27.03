@@ -1,0 +1,153 @@
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+   
+    
+}
+.row1{
+    height: 50px;
+    background: linear-gradient(to right, red 50%, blue 50%);
+    
+}
+.row2{
+    height: 50px;   
+    background: linear-gradient(to right, green 95%, blue 5%);
+}
+.row3{
+    height: 50px;
+    background: linear-gradient(
+    to right,
+    red 5%,
+    green 5% 95%,
+    blue 95%
+  );
+}
+.row4{
+    height: 50px;
+    background: linear-gradient(to right, red 95%, blue 5%);
+}
+.row5{
+    height: 50px;
+}
+.center{
+    width: 25px;
+    height: 25px;
+    background-color: red;
+    
+
+}
+.row10{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 10px;
+
+}
+
+.row6{
+    height: 50px;
+    background: linear-gradient(
+    to right,
+    red 48%,
+    blue 48% 52%,
+    red 52%);
+    
+}
+.row7{
+    height: 50px;
+    background: linear-gradient(to right, red 5%, blue 5%);
+    
+}
+.row20{
+    height: 15px;
+    background: linear-gradient(to right, red 5%, green 5%);
+    margin-top: 20px;
+
+}
+.row8{
+    height: 50px;
+}
+    
+.row9   {
+    height: 50px;
+}
+.c2{
+    height: 50px;
+    width: 15px;
+}
+.c1{
+    height: 50px;
+    width: 15px;
+}
+.c3{
+    height: 50px;
+    width: 15px;
+}
+.c4{
+    height: 50px;
+    width: 15px;
+}
+.columns{
+    display: flex;
+    justify-content: space-around;
+}
+.s1{
+    height: 50px;
+    width: 50px;
+}
+.s2{
+    height: 50px;
+    width: 50px;
+}
+.s3{
+    height: 50px;
+    width: 50px;
+}
+.s4{
+    height: 50px;
+    width: 50px;
+}
+.s5{
+    height: 50px;
+    width: 50px;
+}
+.columns1{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
